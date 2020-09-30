@@ -11,7 +11,7 @@ Life is short, better leave something useful for others.
 - 📫 How to reach me: <a href="mailto:caznaranl@uni.pe"><code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24"/></code></a> or in <a href="https://t.me/oromion"><code><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="24"/></code></a>.
 
 <a href="https://github.com/carlosal1015"><img align="right" src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true"/></a>
-**GNU/Linux distributions：**
+**Distributions：**
 <a href="https://www.archlinux.org"><code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="24"/></code></a>
 <a href="https://getfedora.org"><code><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="24"/></code></a>
 <a href="https://www.deepin.org"><code><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width="24"/></code></a>
