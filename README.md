@@ -1,8 +1,6 @@
 ### Hi there I'm [Oromion](https://carlosal1015.github.io)👋
 
-An Undergraduate mathematics student at [UNI](https://www.uni.edu.pe) Lima, 🇵🇪, Earth, Milky Way.
-
-Loves open source and sharing.
+An Undergraduate mathematics student at [UNI](https://www.uni.edu.pe) Lima, 🇵🇪, Earth, Milky Way. Loves open source and sharing.
 
 Life is short, better leave something useful for others.
 
