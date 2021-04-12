@@ -28,7 +28,7 @@ Life is short, better leave something useful for others.
   /
   <a href="https://docs.microsoft.com/de-de/dotnet/csharp">
   <code>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="24" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="24" />
   </code>
   </a>.
 - 👯 I'm looking to collaborate on [proofofconcept](https://github.com/allofphysicsgraph/proofofconcept)
@@ -72,7 +72,12 @@ Life is short, better leave something useful for others.
 </a>
 <a href="https://rockylinux.org">
 <code>
-<img src="https://raw.githubusercontent.com/rocky-linux/rockylinux.org/main/static/img/logo.png" width="24" />
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo.svg" width="24" />
+</code>
+</a>
+<a href="https://nixos.org">
+<code>
+<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
 </code>
 </a>
 
@@ -186,6 +191,12 @@ Life is short, better leave something useful for others.
 <a href="https://www.cariverplate.com.ar">
 <code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/River_Plate_logo.svg"
+      width="24" />
+</code>
+</a>
+<a href="https://www.cruzazulfc.com.mx">
+<code>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Escudo_del_Cruz_Azul_AC.svg"
       width="24" />
 </code>
 </a>
