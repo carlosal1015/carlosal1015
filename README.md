@@ -49,6 +49,14 @@ Life is short, better leave something useful for others.
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="24" />
   </code>
   </a>.
+- 🔑 GPG key: <a href="https://github.com/carlosal1015.gpg">
+  <code>
+  8C43C00BA8F06ECA
+  </code>
+  </a>
+- 🎁 <a href="https://repology.org/projects/?maintainer=carlosal1015%40aur">
+  AUR packager (130+)
+  </a>
 
 **Distributions：**
 <a href="https://www.archlinux.org">
@@ -72,7 +80,7 @@ Life is short, better leave something useful for others.
 </a>
 <a href="https://rockylinux.org">
 <code>
-<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo.svg" width="24" />
+<img src="https://raw.githubusercontent.com/rocky-linux/rocky-logos/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg" width="24" />
 </code>
 </a>
 <a href="https://nixos.org">
