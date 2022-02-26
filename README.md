@@ -54,8 +54,8 @@ Life is short, better leave something useful for others.
   8C43C00BA8F06ECA
   </code>
   </a>
-- 🎁 <a href="https://repology.org/projects/?maintainer=carlosal1015%40aur">
-  AUR packager (130+)
+- 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
+  AUR packager (250+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
 **Distributions：**
@@ -105,11 +105,12 @@ Life is short, better leave something useful for others.
 <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
 </code>
 </a>
-<a href="https://www.microsoft.com/en-us/software-download/windows10">
+
+<!-- <a href="https://www.microsoft.com/en-us/software-download/windows10">
 <code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Windows.svg" width="24" />
 </code>
-</a>
+</a> -->
 
 **Languages：**
 <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">
