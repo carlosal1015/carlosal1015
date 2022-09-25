@@ -55,7 +55,7 @@ Life is short, better leave something useful for others.
   </code>
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
-  AUR packager (250+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
+  AUR packager (350+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
 **Distributions：**
