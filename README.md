@@ -33,9 +33,7 @@ Life is short, better leave something useful for others.
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="24" />
   </a>.
 - 🔑 GPG key: <a href="https://github.com/carlosal1015.gpg">
-  <code>
-  8C43C00BA8F06ECA
-  </code>
+  `8C43C00BA8F06ECA`
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
   AUR packager (400+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
@@ -48,45 +46,30 @@ Life is short, better leave something useful for others.
 
 **Distributions：**
 <a href="https://www.archlinux.org">
-<code><img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
-</code>
+<img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
 </a>
 <a href="https://getfedora.org">
-<code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="24" />
-</code>
 </a>
 <a href="https://www.deepin.org">
-<code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width="24" />
-</code>
 </a>
 <a href="https://www.debian.org">
-<code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="24" />
-</code>
 </a>
 <a href="https://rockylinux.org">
-<code>
 <img src="https://raw.githubusercontent.com/rocky-linux/rocky-logos/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg" width="24" />
-</code>
 </a>
 <a href="https://nixos.org">
-<code>
 <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
-</code>
 </a>
 
 **Platforms：**
 <a href="https://www.kernel.org">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/linux.svg" width="24" />
-</code>
 </a>
 <a href="https://www.raspberrypi.org">
-<code>
 <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
-</code>
 </a>
 
 <!-- <a href="https://www.microsoft.com/en-us/software-download/windows10">
