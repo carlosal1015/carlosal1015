@@ -16,10 +16,7 @@ Life is short, better leave something useful for others.
   <img
         src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/b5551ca7946b4a25746c045c15fbb8806610f8d0/images/julia-logo-color.svg"
         width="24" />
-  </a>
-
-  and
-  
+  </a> and
   <a href="https://www.mono-project.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Mono_Project_Logo.svg" width="24" />
   </a>
