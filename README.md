@@ -44,6 +44,11 @@ Life is short, better leave something useful for others.
   AUR packager (400+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
+<a href="https://github.com/carlosal1015">
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true" />
+</a>
+
 **Distributions：**
 <a href="https://www.archlinux.org">
 <img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
@@ -119,11 +124,6 @@ Life is short, better leave something useful for others.
 <a href="https://www.gnu.org/software/emacs">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="24" />
 </a> -->
-
-<a href="https://github.com/carlosal1015">
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true" />
-</a>
 
 **Soccer fan clubs：**
 <a href="https://universitario.pe">
