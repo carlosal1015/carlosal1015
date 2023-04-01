@@ -6,6 +6,11 @@ Loves open source and sharing.
 
 Life is short, better leave something useful for others.
 
+<a href="https://github.com/carlosal1015">
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosal1015&count_private=true&layout=compact&show_icons=true" />
+</a>
+
 - 🔭 I'm currently studying some stuff about differential equations.
 - 🌱 I'm currently learning <a href="https://julialang.org">
   <img
@@ -39,11 +44,6 @@ Life is short, better leave something useful for others.
   AUR packager (400+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
-<a href="https://github.com/carlosal1015">
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosal1015&count_private=true&layout=compact&show_icons=true" />
-</a>
-
 **Distributions：**
 <a href="https://www.archlinux.org">
 <img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
@@ -71,122 +71,79 @@ Life is short, better leave something useful for others.
 <a href="https://www.raspberrypi.org">
 <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
 </a>
-
 <!-- <a href="https://www.microsoft.com/en-us/software-download/windows10">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Windows.svg" width="24" />
-</code>
 </a> -->
 
 **Languages：**
 <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/c%20(3).svg" width="24" />
-</code>
 </a>
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24" />
-</code>
 <a href="https://www.postgresql.org">
-<code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="24" />
-</code>
 </a>
 <a href="https://www.python.org">
-<code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" />
-</code>
 </a>
 <a href="https://www.r-project.org">
-<code>
 <img src="https://www.r-project.org/logo/Rlogo.svg" width="24" />
-</code>
 </a>
 
 **Tools：**
 <a href="https://www.qt.io/product/development-tools">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/qtcreator.svg" width="24" />
-</code>
 </a>
 <a href="https://visualstudio.microsoft.com/vs">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vs.svg" width="24" />
-</code>
 </a>
 <a href="https://code.visualstudio.com">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24" />
-</code>
 </a>
 <a href="https://git-scm.com">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24" />
-</code>
 </a>
 <a href="https://www.gnu.org/software">
-<code>
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24" />
-</code>
 </a>
 <a href="https://docs.gitlab.com/runner">
-<code>
 <img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/250833/runner_logo.png" width="24" />
-</code>
 </a>
 <a href="https://www.docker.com">
-<code>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
-</code>
 </a>
 
 <!-- <a href="https://www.vim.org">
-  <code>
     <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vim-gtk.svg" width="24" />
-  </code>
 </a>
 <a href="https://www.gnu.org/software/emacs">
-  <code>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="24" />
-  </code>
 </a> -->
-
-**Soccer fan clubs：**
-<a href="https://universitario.pe">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Escudo_del_Club_Universitario_de_Deportes.svg"
-      width="24" />
-</code>
-</a>
-<a href="https://www.realmadrid.com">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
-</code>
-</a>
-<a href="https://www.cariverplate.com.ar">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/River_Plate_logo.svg"
-      width="24" />
-</code>
-</a>
-<a href="https://www.cruzazulfc.com.mx">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Escudo_del_Cruz_Azul_AC.svg"
-      width="24" />
-</code>
-</a>
-<a href="https://www.acmilan.com">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
-</code>
-</a>
-<a href="https://www.chelseafc.com">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/sco/c/cc/Chelsea_FC.svg" width="24" />
-</code>
-</a>
 
 <a href="https://github.com/carlosal1015">
   <img align="right"
     src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true" />
+</a>
+
+**Soccer fan clubs：**
+<a href="https://universitario.pe">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Escudo_del_Club_Universitario_de_Deportes.svg"
+      width="24" />
+</a>
+<a href="https://www.realmadrid.com">
+<img src="https://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg" width="24" />
+</a>
+<a href="https://www.cariverplate.com.ar">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/River_Plate_logo.svg"
+      width="24" />
+</a>
+<a href="https://www.cruzazulfc.com.mx">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Escudo_del_Cruz_Azul_AC.svg"
+      width="24" />
+</a>
+<a href="https://www.acmilan.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="24" />
+</a>
+<a href="https://www.chelseafc.com">
+<img src="https://upload.wikimedia.org/wikipedia/sco/c/cc/Chelsea_FC.svg" width="24" />
 </a>
