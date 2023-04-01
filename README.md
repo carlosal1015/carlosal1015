@@ -6,11 +6,6 @@ Loves open source and sharing.
 
 Life is short, better leave something useful for others.
 
-<a href="https://github.com/carlosal1015">
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosal1015&count_private=true&layout=compact&show_icons=true" />
-</a>
-
 - 🔭 I'm currently studying some stuff about differential equations.
 - 🌱 I'm currently learning <a href="https://julialang.org">
   <code>
@@ -55,12 +50,17 @@ Life is short, better leave something useful for others.
   </code>
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
-  AUR packager (350+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
+  AUR packager (400+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
+
+<a href="https://github.com/carlosal1015">
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosal1015&count_private=true&layout=compact&show_icons=true" />
+</a>
 
 **Distributions：**
 <a href="https://www.archlinux.org">
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="24" />
+<code><img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
 </code>
 </a>
 <a href="https://getfedora.org">
@@ -87,11 +87,6 @@ Life is short, better leave something useful for others.
 <code>
 <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
 </code>
-</a>
-
-<a href="https://github.com/carlosal1015">
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true" />
 </a>
 
 **Platforms：**
@@ -218,4 +213,9 @@ Life is short, better leave something useful for others.
 <code>
 <img src="https://upload.wikimedia.org/wikipedia/sco/c/cc/Chelsea_FC.svg" width="24" />
 </code>
+</a>
+
+<a href="https://github.com/carlosal1015">
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true" />
 </a>
