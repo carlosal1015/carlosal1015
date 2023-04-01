@@ -8,11 +8,9 @@ Life is short, better leave something useful for others.
 
 - 🔭 I'm currently studying some stuff about differential equations.
 - 🌱 I'm currently learning <a href="https://julialang.org">
-  <code>
   <img
         src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/b5551ca7946b4a25746c045c15fbb8806610f8d0/images/julia-logo-color.svg"
         width="24" />
-  </code>
   </a>
   and
   <a href="https://www.mono-project.com">
