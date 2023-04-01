@@ -14,33 +14,23 @@ Life is short, better leave something useful for others.
   </a>
   and
   <a href="https://www.mono-project.com">
-  <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Mono_Project_Logo.svg" width="24" />
-  </code>
   </a>
   /
   <a href="https://docs.microsoft.com/de-de/dotnet/csharp">
-  <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="24" />
-  </code>
   </a>.
 - 👯 I'm looking to collaborate on [proofofconcept](https://github.com/allofphysicsgraph/proofofconcept)
   or [timescalecalculus](https://github.com/tomcuchta/timescalecalculus).
 - 💬 Ask me about <a href="https://www.latex-project.org">
-  <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="36" />
-  </code>
   </a>.
 - 📫 How to reach me: <a href="mailto:caznaranl@uni.pe">
-  <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" />
-  </code>
   </a>
   or in
   <a href="https://t.me/oromion">
-  <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="24" />
-  </code>
   </a>.
 - 🔑 GPG key: <a href="https://github.com/carlosal1015.gpg">
   <code>
