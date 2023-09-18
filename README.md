@@ -37,7 +37,7 @@ Life is short, better leave something useful for others.
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="24" />
   </a>.
 - 🔑 GPG key: <a href="https://github.com/carlosal1015.gpg">
-  `8C43C00BA8F06ECA`
+  `4160CA920146739B`
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
   AUR packager (400+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
