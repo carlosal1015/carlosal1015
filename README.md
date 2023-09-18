@@ -40,7 +40,7 @@ Life is short, better leave something useful for others.
   `4160CA920146739B`
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
-  AUR packager (400+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
+  AUR packager (500+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
 <a href="https://github.com/carlosal1015">
