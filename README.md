@@ -40,7 +40,7 @@ Life is short, better leave something useful for others.
   `4160CA920146739B`
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
-  AUR packager (500+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
+  AUR packager (600+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
 <a href="https://github.com/carlosal1015">
@@ -145,4 +145,7 @@ Life is short, better leave something useful for others.
 </a>
 <a href="https://www.chelseafc.com">
 <img src="https://upload.wikimedia.org/wikipedia/sco/c/cc/Chelsea_FC.svg" width="24" />
+</a>
+<a href="https://werkself-web-prod-live.b04itpg.de/es-es">
+<img src="https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg" width="24" />
 </a>
