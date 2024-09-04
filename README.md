@@ -40,7 +40,7 @@ Life is short, better leave something useful for others.
   `4160CA920146739B`
   </a>
 - 🎁 <a href="https://aur.archlinux.org/packages?O=0&SeB=M&K=carlosal1015&SB=p&SO=d&PP=250">
-  AUR packager (600+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
+  AUR packager (700+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
 <a href="https://github.com/carlosal1015">
@@ -65,7 +65,7 @@ Life is short, better leave something useful for others.
 <img src="https://raw.githubusercontent.com/rocky-linux/rocky-logos/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg" width="24" />
 </a>
 <a href="https://nixos.org">
-<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
+<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" width="24" />
 </a>
 
 **Platforms：**
@@ -75,9 +75,9 @@ Life is short, better leave something useful for others.
 <a href="https://www.raspberrypi.org">
 <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
 </a>
-<!-- <a href="https://www.microsoft.com/en-us/software-download/windows10">
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Windows.svg" width="24" />
-</a> -->
+<a href="https://www.microsoft.com/en-us/software-download/windows11">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="24" />
+</a>
 
 **Languages：**
 <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">
@@ -111,7 +111,7 @@ Life is short, better leave something useful for others.
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24" />
 </a>
 <a href="https://docs.gitlab.com/runner">
-<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/250833/runner_logo.png" width="24" />
+<img src="https://gitlab.com/uploads/-/system/project/avatar/250833/runner.png" width="24" />
 </a>
 <a href="https://www.docker.com">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
