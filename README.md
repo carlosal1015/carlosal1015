@@ -43,11 +43,6 @@ Life is short, better leave something useful for others.
   AUR packager (700+)<!-- https://repology.org/projects/?maintainer=carlosal1015%40aur -->
   </a>
 
-<a href="https://github.com/carlosal1015">
-  <img align="right"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosal1015" />
-</a>
-
 **Distributions：**
 <a href="https://www.archlinux.org">
 <img src="https://gitlab.com/uploads/-/system/project/avatar/13607804/Archlinux-icon-crystal-64.svg.png" width="24" />
