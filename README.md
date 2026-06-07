@@ -8,7 +8,7 @@ Life is short, better leave something useful for others.
 
 <a href="https://github.com/carlosal1015">
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosal1015&count_private=true&layout=compact&show_icons=true" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosal1015" />
 </a>
 
 - 🔭 I'm currently studying some stuff about differential equations.
@@ -45,7 +45,7 @@ Life is short, better leave something useful for others.
 
 <a href="https://github.com/carlosal1015">
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=carlosal1015&count_private=true&show_icons=true" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosal1015" />
 </a>
 
 **Distributions：**
@@ -145,7 +145,4 @@ Life is short, better leave something useful for others.
 </a>
 <a href="https://www.chelseafc.com">
 <img src="https://upload.wikimedia.org/wikipedia/sco/c/cc/Chelsea_FC.svg" width="24" />
-</a>
-<a href="https://werkself-web-prod-live.b04itpg.de/es-es">
-<img src="https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg" width="24" />
 </a>
